@@ -1,3 +1,8 @@
+
+
+### This code is associated with the paper from Gorur-Shandilya et al., "Olfactory receptor neurons use gain control and complementary kinetics to encode intermittent odorant stimuli". eLife, 2017. http://dx.doi.org/10.7554/eLife.27670
+
+
 # spikesort
 
 ![](./images/hero2.png)
